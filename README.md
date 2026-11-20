@@ -27,3 +27,10 @@ Want Claude Code to automatically audit client contracts line-by-line and genera
 
 ## License
 MIT License. Created by [Adel Battah](https://www.agensi.io/creators/adel-battah).
+
+---
+
+### Want All 4 Founder & SaaS Shield Skills in One 60-Second Install?
+- **Free 10-Point Founder & Cloud Checklist ($0):** https://adelbattah.github.io/saas-shield/
+- **Complete 4-Skill Bundle ($39 — Save $40):** https://adelbattah.github.io/saas-shield/#pricing
+- **Individual Skills on Agensi.io:** https://www.agensi.io/creators/adel-battah
